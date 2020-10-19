@@ -4,5 +4,20 @@
     "name": "Intergrate Collection",
     "schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
   },
-  "item": []
+  "item": [
+    {
+      "name": "Github Sync",
+      "_postman_id": "20826cd2-00e1-4e91-9044-f8b809b465ea",
+      "protocolProfileBehavior": {
+        "disableBodyPruning": true
+      },
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": "",
+        "description": "    "
+      },
+      "response": []
+    }
+  ]
 }
