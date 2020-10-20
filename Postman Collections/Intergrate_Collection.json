@@ -18,6 +18,19 @@
         "description": "    "
       },
       "response": []
+    },
+    {
+      "name": "Azure AD",
+      "_postman_id": "2650b985-04b3-4665-9672-4e94b1aaa969",
+      "protocolProfileBehavior": {
+        "disableBodyPruning": true
+      },
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": ""
+      },
+      "response": []
     }
   ]
 }
